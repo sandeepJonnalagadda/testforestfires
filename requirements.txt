@@ -1,0 +1,11 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+statsmodels
+gunicorn==20.1.0
